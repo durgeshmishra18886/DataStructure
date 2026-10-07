@@ -28,8 +28,7 @@ class Solution:
                     result.append(current)
                     found = True
 
-                # If a valid string has been found at this level,
-                # do not generate strings for the next level
+               
                 if found:
                     continue
 
@@ -42,7 +41,7 @@ class Solution:
                         visited.add(next_str)
                         queue.append(next_str)
 
-            # Stop BFS once any valid string is collected at the current level
+            
             if found:
                 break
 
