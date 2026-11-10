@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/durgeshmishra18886/DataStructure/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/durgeshmishra18886/DataStructure/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/durgeshmishra18886/DataStructure/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/durgeshmishra18886/DataStructure/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/durgeshmishra18886/DataStructure/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/durgeshmishra18886/DataStructure/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/durgeshmishra18886/DataStructure/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/durgeshmishra18886/DataStructure/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/durgeshmishra18886/DataStructure/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/durgeshmishra18886/DataStructure/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
