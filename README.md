@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/durgeshmishra18886/DataStructure/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/durgeshmishra18886/DataStructure/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/durgeshmishra18886/DataStructure/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/durgeshmishra18886/DataStructure/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/durgeshmishra18886/DataStructure/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/durgeshmishra18886/DataStructure/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/durgeshmishra18886/DataStructure/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
