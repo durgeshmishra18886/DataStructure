@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/durgeshmishra18886/DataStructure/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/durgeshmishra18886/DataStructure/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/durgeshmishra18886/DataStructure/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/durgeshmishra18886/DataStructure/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/durgeshmishra18886/DataStructure/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/durgeshmishra18886/DataStructure/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/durgeshmishra18886/DataStructure/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/durgeshmishra18886/DataStructure/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/durgeshmishra18886/DataStructure/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/durgeshmishra18886/DataStructure/tree/main/3360-stone-removal-game/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
